@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nick Burhala</h1>
-<h3 align="center">An eager game developer from Australia/Romania</h3>
+<h3 align="center">A passionate Software Engineer from Australia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nbur1007&label=Profile%20views&color=0e75b6&style=flat" alt="nbur1007" /> </p>
 
