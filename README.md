@@ -9,7 +9,7 @@ Welcome to my github page <img src="https://bestanimations.com/Computers/funny-c
 
 <div align="left">
 <h2>About Me</h2>
-<p>My Name is Nicholas Burhala and I'm a Software Engineer from Australia and Romania. I have a deep interest in Operating Systems and low level programming. My main goal throughout my career as a developer has always been and will always be to build things that make a difference in the user's life. While you're here, make sure to check out <a href="https://nickburhala.dev">my website</a>!</p>
+<p>My Name is Nicholas Burhala and I'm a Software Engineer from Australia and Romania. I have a deep interest in Operating Systems and low level programming. My main goal throughout my career as a developer has always been and will always be to build things that make a difference in the user's life. While you're here, make sure to check out <a href="https://nickburhala.dev" target="_blank">my website!</a></p>
 </div>
 
 ###
